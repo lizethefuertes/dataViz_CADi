@@ -1,4 +1,4 @@
-# dataViz CADi
+# dataViz CADi : Liz perez
 
 These markdown files contain the whole set of pages for the course. For the index on the topics and easier navigation please go to the [landing page of the repository](https://github.com/Chipdelmal/dataViz_CADi).
 
